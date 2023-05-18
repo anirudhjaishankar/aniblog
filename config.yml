@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://anirudhjaishankar.github.io/aniblog/"
 title: Ani's Blog
 paginate: 5
 theme: PaperMod
