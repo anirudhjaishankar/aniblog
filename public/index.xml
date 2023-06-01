@@ -4,18 +4,7 @@
     <title>Ani&#39;s Journal</title>
     <link>https://anirudhjaishankar.github.io/aniblog/</link>
     <description>Recent content on Ani&#39;s Journal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 May 2023 02:18:39 +0530</lastBuildDate><atom:link href="https://anirudhjaishankar.github.io/aniblog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>React Redux: Part 1</title>
-      <link>https://anirudhjaishankar.github.io/aniblog/posts/react-redux-part1/</link>
-      <pubDate>Fri, 19 May 2023 02:18:39 +0530</pubDate>
-      
-      <guid>https://anirudhjaishankar.github.io/aniblog/posts/react-redux-part1/</guid>
-      <description>Preface In this two part blog we are going to see what redux is and why, when and how we should use it in our react projects (Please feel free to reachout to me if you feel any part of this blog is wrong).
-Introduction Redux is a state management library. In common man&amp;rsquo;s terms it is used to keep states &amp;ldquo;global&amp;rdquo; so that it can be easily used by other components.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://anirudhjaishankar.github.io/aniblog/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
