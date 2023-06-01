@@ -1,5 +1,5 @@
 baseURL: "https://anirudhjaishankar.github.io/aniblog/"
-title: Ani's Blog
+title: Ani's Journal
 paginate: 5
 theme: PaperMod
 
@@ -16,18 +16,18 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Ani's Blog
-  description: "ExampleSite description"
+  title: Ani's Journal
+  description: "This is a anirudh's digital journal"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -63,11 +63,11 @@ params:
     Content: > 
         - 🎮 Anirudh Jaishankar 🖊️
 
-        - Gamer, Enigneer, Explorer
+        - Gamer, Engineer, Explorer
 
-        - Welcome to my digital journal! I'm Anirudh Jaishankar, a passionate gamer and software enginner at Paypal.
+        - Welcome to my digital journal! I'm Anirudh Jaishankar, a passionate gamer and software engineer at Paypal.
               
-        - I might write on other topics as well from time to time. Cheers and have a good read! 🌟
+        - This is my online journal where i document all my findings as i traverse a speck of my time on this earth. Cheers and have a good read! 🌟
 
   socialIcons:
     - name: twitter
@@ -90,10 +90,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
