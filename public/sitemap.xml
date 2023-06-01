@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://anirudhjaishankar.github.io/aniblog/</loc>
     <lastmod>2023-05-19T02:18:39+05:30</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://anirudhjaishankar.github.io/aniblog/posts/</loc>
     <lastmod>2023-05-19T02:18:39+05:30</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://anirudhjaishankar.github.io/aniblog/posts/react-redux-part1/</loc>
     <lastmod>2023-05-19T02:18:39+05:30</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://anirudhjaishankar.github.io/aniblog/archives/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://anirudhjaishankar.github.io/aniblog/categories/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://anirudhjaishankar.github.io/aniblog/search/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://anirudhjaishankar.github.io/aniblog/tags/</loc>
   </url>
 </urlset>

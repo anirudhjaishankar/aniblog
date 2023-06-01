@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: sitemap.xml
+Sitemap: https://anirudhjaishankar.github.io/aniblog/sitemap.xml

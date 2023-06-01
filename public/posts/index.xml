@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Ani&#39;s Blog</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Ani&#39;s Blog</description>
-    <image>
-      <title>Ani&#39;s Blog</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>Posts on Ani&#39;s Journal</title>
+    <link>https://anirudhjaishankar.github.io/aniblog/posts/</link>
+    <description>Recent content in Posts on Ani&#39;s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 May 2023 02:18:39 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 May 2023 02:18:39 +0530</lastBuildDate><atom:link href="https://anirudhjaishankar.github.io/aniblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
+      <title>React Redux: Part 1</title>
+      <link>https://anirudhjaishankar.github.io/aniblog/posts/react-redux-part1/</link>
       <pubDate>Fri, 19 May 2023 02:18:39 +0530</pubDate>
       
-      <guid>/posts/my-first-post/</guid>
-      <description>Sample title Ths is a sample content to see if the blog can calculate the read time</description>
+      <guid>https://anirudhjaishankar.github.io/aniblog/posts/react-redux-part1/</guid>
+      <description>Preface In this two part blog we are going to see what redux is and why, when and how we should use it in our react projects (Please feel free to reachout to me if you feel any part of this blog is wrong).
+Introduction Redux is a state management library. In common man&amp;rsquo;s terms it is used to keep states &amp;ldquo;global&amp;rdquo; so that it can be easily used by other components.</description>
     </item>
     
   </channel>
