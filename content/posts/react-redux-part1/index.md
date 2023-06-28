@@ -22,7 +22,7 @@ Redux is a state management library. In common man's terms, it is used to keep s
 
 One of the major pain points for React developers is trying to pass some data between two or more unconnected components. React has a parent-child data-passing model. This is good for most cases, but when you need to pass data between two sibling components, it's not possible unless we lift the state to their common parent.
 
-![sharing state between child](images/sibling-state-exchange.jpg)
+![sharing state between child](images/sibling-state-exchange.jpg#center)
 *Sharing state between react siblings*
 
 ## When 🕛
@@ -35,7 +35,7 @@ For use cases like this where we need to store a lot of **"global"** state infor
 
 Here is an illustration to show how redux works
 
-![Redux illustration](images/redux.jpg)
+![Redux illustration](images/redux.jpg#center)
 *Redux illustration*
 
 1. When some changes happen in the UI's state, e.g., a button click, an option selection, etc., the component **dispatches** an **action**.
