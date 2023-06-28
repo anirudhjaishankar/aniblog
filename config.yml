@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-Z1F30TBHZD
 
 minify:
   disableXML: true
@@ -60,14 +60,16 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: > 
-        - 🎮 Anirudh Jaishankar 🖊️
+    Content: >
+      - 🎮 Anirudh Jaishankar 🖊️
 
-        - Gamer, Engineer, Explorer
+      - Gamer, Engineer, Explorer
 
-        - Welcome to my digital journal! I'm Anirudh Jaishankar, a passionate gamer and software engineer at Paypal.
-              
-        - This is my online journal where i document all my findings as i traverse a speck of my time on this earth. Cheers and have a good read! 🌟
+      - Welcome to my digital journal! I'm Anirudh Jaishankar, a passionate gamer and software engineer at Paypal.
+            
+      - This is my online journal where i document all my findings as i traverse a speck of my time on this earth. Cheers and have a good read! 🌟
+
+      - If you like the content i write, checkout my fullstack course for beginners at https://gammaprep.com
 
   socialIcons:
     - name: twitter
@@ -127,7 +129,7 @@ markup:
     # style: monokai
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
